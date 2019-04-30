@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: From Fine Dining to Fine Art to Fine Data 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi. My name is Darek Tidwell. In the past:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Multiple medals and recognition in Martial Arts
+- 25 years Managing Multi-National Teams in Multi-Million dollar ($21M) Hotel / Dining Operations
+- 3 years as an Artist and Graphic Design / Projection Mapping for Live Events
 
-What else do you need?
+In the present I am working on:
 
-### my history
+- Data Science Graduate (January 2020) of Lambda School
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+In the future I am seeking opportunities in:
+
+- Computer Vision and Machine Perception
+- Novel approaches in Machine Learning and Design for Autonomous General Inquisition and Abstraction Agents
+- Integrating Machine Learning in to the Global Food Chain ecosystem to reduce waste and ecological impact
+- Exploring Augmented Reality applications to bridge to the digital and biological worlds 
+
+### Learn More:
+
+Please visit [my website](https://darektidwell.com/) for updates and interests relating to my journey.
