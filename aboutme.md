@@ -4,8 +4,8 @@ title: About me
 subtitle: From Fine Dining to Fine Art to Fine Data 
 
 ---
-
 Hi. My name is Darek. 
+
 Currently, I am in Nashville, TN but am open to travel and relocation. 
 
 **In the past:**
@@ -19,7 +19,7 @@ Currently, I am in Nashville, TN but am open to travel and relocation.
 
 **In the future I am seeking opportunities in:**
 - Computer Vision and Machine Perception
-- Novel approaches in Machine Learning and Design for Autonomous General Inquisition and Abstraction Agents
+- Novel approaches in Machine Learning and Design 
 - Integrating Machine Learning in to the Global Food Chain to reduce waste and ecological impact
 - Large Scale Augmented / Generative Reality Events
 
