@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About me
+bigimg: img/Nashville Background.JPG
 subtitle: From Fine Dining to Fine Art to Fine Data 
 ---
 
