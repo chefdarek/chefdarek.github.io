@@ -1,13 +1,14 @@
 ---
-bigimg: - "img/Nashville Background.JPG" : "Nashville, TN (2017)"
 layout: page
 title: About me
 subtitle: From Fine Dining to Fine Art to Fine Data 
+bigimg: "img/Nashville Background.JPG" : "Nashville, TN (2017)"
+
 ---
 
-Hi. My name is Darek Tidwell. 
+Hi. My name is Darek. Currently, I am in Nashville, TN but am open to travel and relocation. 
 
-**In the past:**
+In the past:
 
 - Multiple medals and recognition in Martial Arts
 - [C.I.A.](https://www.ciachef.edu/) Graduate (think _secret_ sauce, not _secret_ spy)
