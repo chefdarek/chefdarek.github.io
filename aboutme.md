@@ -3,7 +3,7 @@ layout: page
 title: About me
 subtitle: From Fine Dining to Fine Art to Fine Data 
 bigimg: 
-  - "img/Nashville Background.JPG" : "Nashville, TN (2017)"
+  - "img/IMG_4356" : " "
 ---
 
 Hi. My name is Darek. 
