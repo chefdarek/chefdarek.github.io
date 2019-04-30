@@ -11,7 +11,7 @@ Currently, I am in Nashville, TN but am open to travel and relocation.
 **In the past:**
 - Multiple medals and recognition in Martial Arts
 - [C.I.A.](https://www.ciachef.edu/) Graduate (think _secret_ sauce, not _secret_ spy)
-- 25 years Managing Multi-National Teams in Multi-Million dollar ($21M) Hotel / Dining Operations
+- 25 years Managing Multi-National Teams ($5-$21M) Hotel / Dining Operations
 - 3 years as an Artist / 3D Animation / Projection Mapping for Live Events
 
 **In the present I am working on:**
@@ -20,7 +20,7 @@ Currently, I am in Nashville, TN but am open to travel and relocation.
 **In the future I am seeking opportunities in:**
 - Computer Vision and Machine Perception
 - Novel approaches in Machine Learning and Design 
-- Integrating Machine Learning in to the Global Food Chain to reduce waste and ecological impact
+- Integrating ML / NN's into the Global Food Chain to reduce waste and ecological impact
 - Large Scale Augmented / Generative Reality Events
 
 ### Learn More:
