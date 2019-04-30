@@ -2,8 +2,7 @@
 layout: page
 title: About me
 subtitle: From Fine Dining to Fine Art to Fine Data 
-bigimg: 
-  - "img/IMG_4356"
+
 ---
 
 Hi. My name is Darek. 
@@ -24,7 +23,7 @@ In the past:
 - Computer Vision and Machine Perception
 - Novel approaches in Machine Learning and Design for Autonomous General Inquisition and Abstraction Agents
 - Integrating Machine Learning in to the Global Food Chain to reduce waste and ecological impact
-- Large Scale Augmented Reality Events
+- Large Scale Augmented / Generative Reality Events
 
 ### Learn More:
 
