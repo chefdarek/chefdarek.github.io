@@ -20,7 +20,7 @@ Currently, I am in Nashville, TN but am open to travel and relocation.
 **In the future I am seeking opportunities in:**
 - Computer Vision and Machine Perception
 - Novel approaches in Machine Learning and Design 
-- Integrating ML / NN's into the Global Food Chain to reduce waste and ecological impact
+- Using ML / NN's into the Global Food Chain to eliminate waste & ecological impact
 - Large Scale Augmented / Generative Reality Events
 
 ### Learn More:
