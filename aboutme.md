@@ -9,7 +9,7 @@ Hi. My name is Darek.
 Currently, I am in Nashville, TN but am open to travel and relocation. 
 
 **In the past:**
-- Multiple medals and recognition in Martial Arts\
+- Multiple medals and recognition in Martial Arts
 - [C.I.A.](https://www.ciachef.edu/) Graduate (think _secret_ sauce, not _secret_ spy)
 - 25 years Managing Multi-National Teams in Multi-Million dollar ($21M) Hotel / Dining Operations
 - 3 years as an Artist / 3D Animation / Projection Mapping for Live Events
