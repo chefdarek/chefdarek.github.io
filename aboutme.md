@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-bigimg: img/Nashville Background.JPG
 subtitle: From Fine Dining to Fine Art to Fine Data 
+bigimg: "img/Nashville Background.JPG" : "Nashville, TN (2017)"
 ---
 
 Hi. My name is Darek Tidwell. 
