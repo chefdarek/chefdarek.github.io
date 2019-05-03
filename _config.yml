@@ -16,8 +16,9 @@ baseurl: ""
 # Name of website
 title: Darek Tidwell - Data Science & Machine Learning
 
-# Short description of your site
-description: Personal Repository Portfolio
+author: Darek Tidwell
+
+description: Darek Tidwell Github Pages
 
 # --- Navigation bar options --- #
 
