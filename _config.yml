@@ -26,7 +26,7 @@ description: Darek Tidwell Github Pages
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Blog: "https://darektidwell.com/"
+    - Portfolio: "https://darektidwell.com/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://github.com/chefdarek"
 #   Author's home: "https://darektidwell.com/"
